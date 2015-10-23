@@ -1,1 +1,1 @@
-# lynceus  : Capstone project
+## Lynceus: Capstone project
